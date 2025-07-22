@@ -8,6 +8,7 @@
       poster_path:
         "https://image.tmdb.org/t/p/original/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
       category: "Action",
+      link:"https//www.hotstar.com/in/movies/deadpool-and-wolverine/1271305185?search_query=deadpool",
     },
     {
       id: 718821,
@@ -18,6 +19,7 @@
       poster_path:
         "https://image.tmdb.org/t/p/original/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg",
       category: "Thriller",
+       link:"https://www.airtelxstream.in/movies/twisters/HOTSTAR_DTH_MOVIE_1971311441",
     },
     {
       id: 1022789,
@@ -28,6 +30,7 @@
       poster_path:
         "https://image.tmdb.org/t/p/original/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
       category: "Animation",
+       link:"https://www.hotstar.com/in/movies/inside-out-2/1271325263?search_query=Inside%2BOut%2B2",
     },
     {
       id: 519182,
@@ -38,6 +41,7 @@
       poster_path:
         "https://image.tmdb.org/t/p/original/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
       category: "Animation",
+      link:"https://www.airtelxstream.in/movies/despicable-me-4/HOTSTAR_DTH_MOVIE_1971011166",
     },
     {
       id: 573435,
@@ -48,6 +52,7 @@
       poster_path:
         "https://image.tmdb.org/t/p/original/oGythE98MYleE6mZlGs5oBGkux1.jpg",
       category: "Action",
+       link:"https://www.netflix.com/in/title/81762792",
     },
     {
       id: 1160018,
@@ -58,6 +63,7 @@
       poster_path:
         "https://image.tmdb.org/t/p/original/m2zXTuNPkywdYLyWlVyJZW2QOJH.jpg",
       category: "Thriller",
+      link:"https://www.hotstar.com/in/movies/kill/1271326855?search_query=kill",
     },
     {
       id: 762441,
@@ -68,6 +74,7 @@
       poster_path:
         "https://image.tmdb.org/t/p/original/hU42CRk14JuPEdqZG3AWmagiPAP.jpg",
       category: "Horror",
+      link:"https://www.primevideo.com/detail/A-Quiet-Place-Day-One/0OJG1AJLVOT6KKPOOKKFZOZIQL",
     },
     {
       id: 831815,
@@ -78,6 +85,7 @@
       poster_path:
         "https://image.tmdb.org/t/p/original/30YnfZdMNIV7noWLdvmcJS0cbnQ.jpg",
       category: "Animation",
+       link:"https://qr.netflix.com/in/title/81221340",
     },
     {
       id: 1079091,
@@ -88,6 +96,7 @@
       poster_path:
         "https://image.tmdb.org/t/p/original/AjV6jFJ2YFIluYo4GQf13AA1tqu.jpg",
       category: "Drama",
+      link:"https://www.netflix.com/in/title/81762778",
     },
     {
       id: 945961,
@@ -98,5 +107,6 @@
       poster_path:
         "https://image.tmdb.org/t/p/original/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",
       category: "Sci-Fi",
+       link:"https://www.hotstar.com/in/movies/alien-romulus/1271337435",
     },
   ];

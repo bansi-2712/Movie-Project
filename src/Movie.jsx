@@ -40,6 +40,7 @@ export const Movie = () => {
             <Card.Body>
               <Card.Title className="text">{movie.title} </Card.Title>
               <Card.Text className="text">{movie.release_date}</Card.Text>
+                <Button  variant="outline-warning" className="watch-now-btn" onClick={()=> window.open(movie.link,"_blank","noopener,noreferrer")}>Watch Now</Button>
             </Card.Body>
           </Card>
         ))}
